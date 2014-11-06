@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 LOL
+=======
+yiqun da shabi.
+>>>>>>> testing
